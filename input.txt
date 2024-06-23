@@ -1,0 +1,14 @@
+register ali 1234
+register parsa 1234
+login parsa 1234
+new_game ali 8
+select 1,2
+move 1,4
+next_turn
+select 1,7
+move 1,5
+show_board
+next_turn
+select 1,4
+move 1,5
+move 2,5
